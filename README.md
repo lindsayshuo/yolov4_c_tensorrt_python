@@ -1,7 +1,7 @@
 具体的配置信息可以参考我的另外一个博客
 	
 	https://blog.csdn.net/weixin_43269994/article/details/117814951?spm=1001.2014.3001.5501
-github链接后续放出
+
 
 # YOLOv4
 
